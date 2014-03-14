@@ -1,0 +1,1 @@
+start "" "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" -incognito -kiosk "C:\Users\exhibits\Desktop\program\index.html"
